@@ -60,7 +60,7 @@ const suspectsArray = [
     // ...
   }
   // ...
-];
+],
 ```
 
 ### Available weapons
